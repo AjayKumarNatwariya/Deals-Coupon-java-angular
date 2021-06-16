@@ -9,4 +9,4 @@ spring:
     name: jwt-user-authentication
   data:
     mongodb:
-      uri: mongodb+srv://admin:admin@javaproject.cmugb.mongodb.net/dealsandcoupons?retryWrites=true&w=majority
+      uri: mongodb+srv://admin:admin@
